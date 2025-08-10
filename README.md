@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16790681.svg)](https://doi.org/10.5281/zenodo.16790681)
 # The Unitary Model of Consciousness: A Theory of Computational Idealism
 
 **Alexander Olkhovoy**
